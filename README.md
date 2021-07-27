@@ -1,9 +1,9 @@
 <h2 align="center">Hey! Today I created bouncing text in pure HTML and CSS.</h2>
-<!--<div align="center"> 
+<div align="center"> 
 <img src="https://img.shields.io/github/downloads/medvedoc/colored-text/total?style=for-the-badge">
 <img src="https://img.shields.io/github/license/medvedoc/colored-text?style=for-the-badge">
 <img src="https://img.shields.io/github/commit-activity/m/mevedoc/colored-text?style=for-the-badge">
-</div>-->
+</div>
 <div align="center">
 <img src="https://img.shields.io/github/languages/top/Medvedoc/colored-text?style=for-the-badge">
 <img src="https://img.shields.io/github/languages/code-size/Medvedoc/colored-text?style=for-the-badge">
