@@ -1,7 +1,3 @@
-[![Github Downloads (total)](https://img.shields.io/github/downloads/medvedoc/colored-text/total.svg)]()
-[![Github Downloads (monthly)](https://img.shields.io/github/downloads/medvedoc/colored-text/latest/total.svg)]()
-
-
 <h2 align="center">Hey! Today I created bouncing text in pure HTML and CSS.</h2>
 <div align="center"> 
 <img src="https://img.shields.io/github/downloads/medvedoc/colored-text/total?style=for-the-badge">
@@ -14,6 +10,7 @@
 <img src="https://img.shields.io/github/languages/code-size/Medvedoc/colored-text?style=for-the-badge">
 <img src="https://img.shields.io/github/languages/count/medvedoc/colored-text?style=for-the-badge">
 <img src="https://img.shields.io/tokei/lines/github/medvedoc/colored-text?style=for-the-badge">
+<img src="https://img.shields.io/github/contributors/medvedoc/colored-text?style=for-the-badge">
 </div>
 <h3 align="center">All animation is based on @keyframes.</h3>
 <div align="center"><a href="https://cdn.buymeacoffee.com/uploads/project_updates/2021/07/2a3ffa62a8da3fba38b20d9a2c19ba81.png"><img src="https://cdn.buymeacoffee.com/uploads/project_updates/2021/07/2a3ffa62a8da3fba38b20d9a2c19ba81.png" /></a></div>
