@@ -1,3 +1,7 @@
+[![Github Downloads (total)](https://img.shields.io/github/downloads/medvedoc/colored-text/total.svg)]()
+[![Github Downloads (monthly)](https://img.shields.io/github/downloads/medvedoc/colored-text/latest/total.svg)]()
+
+
 <h2 align="center">Hey! Today I created bouncing text in pure HTML and CSS.</h2>
 <div align="center"> 
 <img src="https://img.shields.io/github/downloads/medvedoc/colored-text/total?style=for-the-badge">
